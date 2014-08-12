@@ -9,6 +9,7 @@
 #
 # Normal rules
 #
+check_in.sh
 make.sh
 .*
 *.o
