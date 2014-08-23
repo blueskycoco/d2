@@ -9,8 +9,8 @@
 #
 # Normal rules
 #
-check_in.sh
 make.sh
+check_in1.sh
 .*
 *.o
 *.o.*
